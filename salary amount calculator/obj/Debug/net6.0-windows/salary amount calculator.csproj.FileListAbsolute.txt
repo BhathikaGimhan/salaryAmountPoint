@@ -1,0 +1,17 @@
+F:\C# Projects\salary amount calculator\salary amount calculator\obj\Debug\net6.0-windows\salary amount calculator.csproj.AssemblyReference.cache
+F:\C# Projects\salary amount calculator\salary amount calculator\obj\Debug\net6.0-windows\salary_amount_calculator.Form1.resources
+F:\C# Projects\salary amount calculator\salary amount calculator\obj\Debug\net6.0-windows\salary amount calculator.csproj.GenerateResource.cache
+F:\C# Projects\salary amount calculator\salary amount calculator\obj\Debug\net6.0-windows\salary amount calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\salary amount calculator\salary amount calculator\obj\Debug\net6.0-windows\salary amount calculator.AssemblyInfoInputs.cache
+F:\C# Projects\salary amount calculator\salary amount calculator\obj\Debug\net6.0-windows\salary amount calculator.AssemblyInfo.cs
+F:\C# Projects\salary amount calculator\salary amount calculator\obj\Debug\net6.0-windows\salary amount calculator.csproj.CoreCompileInputs.cache
+F:\C# Projects\salary amount calculator\salary amount calculator\bin\Debug\net6.0-windows\salary amount calculator.exe
+F:\C# Projects\salary amount calculator\salary amount calculator\bin\Debug\net6.0-windows\salary amount calculator.deps.json
+F:\C# Projects\salary amount calculator\salary amount calculator\bin\Debug\net6.0-windows\salary amount calculator.runtimeconfig.json
+F:\C# Projects\salary amount calculator\salary amount calculator\bin\Debug\net6.0-windows\salary amount calculator.dll
+F:\C# Projects\salary amount calculator\salary amount calculator\bin\Debug\net6.0-windows\salary amount calculator.pdb
+F:\C# Projects\salary amount calculator\salary amount calculator\obj\Debug\net6.0-windows\salary amount calculator.dll
+F:\C# Projects\salary amount calculator\salary amount calculator\obj\Debug\net6.0-windows\refint\salary amount calculator.dll
+F:\C# Projects\salary amount calculator\salary amount calculator\obj\Debug\net6.0-windows\salary amount calculator.pdb
+F:\C# Projects\salary amount calculator\salary amount calculator\obj\Debug\net6.0-windows\salary amount calculator.genruntimeconfig.cache
+F:\C# Projects\salary amount calculator\salary amount calculator\obj\Debug\net6.0-windows\ref\salary amount calculator.dll
