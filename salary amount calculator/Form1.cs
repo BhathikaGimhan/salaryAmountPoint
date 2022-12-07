@@ -13,17 +13,22 @@ namespace salary_amount_calculator
             try
             {
                 
-                int isCheck;
-                var returnVal = int.TryParse(salaryInput.Text, out isCheck);
-                if (returnVal)
+                int isCheck = 0;
+                //if (returnVal)
+                if (int.TryParse(salaryInput.Text, out isCheck))
                 {
                     int getModValue = Int32.Parse(salaryInput.Text);
+                    //int getModValue = 2000;
                     dataGridView1.Rows.Clear();
-                    for(int a = 0; a <= number.Length -1; a++)
+                    int x = 0;
+
+                    Int32.TryParse(salaryInput.Text, out x);
+                    for (int a = 0; a <= number.Length -1; a++)
                     {
                         int getDivideNo = (getModValue / number[a]);
                         getModValue = (getModValue % number[a]);
-                        dataGridView1.Rows.Add(string.Format("{o}/=", number[a]), getDivideNo);
+                        string c = string.Format("{0} /=", number[a]);
+                        dataGridView1.Rows.Add(c, getDivideNo);
                     }
                 }
                 else
